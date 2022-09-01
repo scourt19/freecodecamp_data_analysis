@@ -1,0 +1,2 @@
+# Overview
+I have completed the five tasks that are required for my [freecodecamp certificate](https://freecodecamp.org/certification/stefancourt/data-analysis-with-python-v7). This required me to practice the act of reading data from different files such as *CSV's* and *SQL files*, clean the data, process the data using libraries such as *NumPy* and *Pandas* and show accurate graphs of data with *Matplotlib* and *Seaborn*.
